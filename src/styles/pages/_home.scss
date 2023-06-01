@@ -70,14 +70,21 @@
 
 @media screen and (max-width: 580px) {
     .homeContent{
+
+        .content{
+            top: 10% !important;
+            left: 3% !important;
+        }
         &:after {
             background: url("../../../public/media/Session-studio-221.jpg") no-repeat 60% 50%/cover !important;
+            right: -160px !important;
+
         }
         h1{
             font-size: 3rem !important;
         }
         h2{
-            font-size: 1.8rem !important;
+            font-size: 1.5rem !important;
         }
     }
 }
