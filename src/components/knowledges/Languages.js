@@ -10,8 +10,8 @@ class Languages extends Component {
     ],
 
     frameworks: [
-      { id: 1, value: "React", xp: 0.9 },
-      { id: 2, value: "Sass", xp: 1.2 },
+      { id: 1, value: "React", xp: 1.3 },
+      { id: 2, value: "Sass", xp: 1.5 },
     ],
   };
 
@@ -23,7 +23,7 @@ class Languages extends Component {
         <ProgressBar
           languages={languages}
           className="languagesDisplay"
-          title="languages"
+          title="langages"
         />
         <ProgressBar
           languages={frameworks}
