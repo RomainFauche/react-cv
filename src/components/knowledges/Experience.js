@@ -31,7 +31,7 @@ Méthode du CRUD avec des actions (React + Redux).</p>
         <h4>Artiste photographe</h4>
         <h5>Depuis 2018</h5>
         <p>
-          Profession libéral Réaliser des prises de
+          Profession libérale Réaliser des prises de
           vues(portrait,reportage,packshot...). Gestion du studio. Traiter le
           négatif dans une chambre noire. Procéder au développement de la
           photographie (traitement chimique du négatif).
