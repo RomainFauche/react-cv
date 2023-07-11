@@ -22,7 +22,7 @@ const OtherSkills = () => {
             <i className="fas fa-check-square"></i>Wordpress
           </li>
           <li>
-            <i className="fas fa-check-square"></i>Anglais scolaire
+            <i className="fas fa-check-square"></i>Anglais technique
           </li>
           <li>
             <i className="fas fa-check-square"></i>Montage vidéo

@@ -5,6 +5,16 @@ const Experience = () => {
     <div className="experience">
       <h3>Expérience</h3>
       <div className="exp_1">
+        <h4>Autodidacte</h4>
+        <p>Utilisation de Axios (useEffect, useState).
+Utilisation des Maps & Props.
+Utilisation des filtres (slice, filter, sort).
+Connaissance TypeScript.
+Utilisation du Store (Redux).
+Méthode du CRUD avec des actions (React + Redux).</p>
+      </div>
+
+      <div className="exp_2">
         <h4>Formation Développeur web</h4>
         <h5>Depuis 2022</h5>
         <p>
@@ -17,7 +27,7 @@ const Experience = () => {
         </p>
       </div>
 
-      <div className="exp_2">
+      <div className="exp_3">
         <h4>Artiste photographe</h4>
         <h5>Depuis 2018</h5>
         <p>
@@ -27,17 +37,7 @@ const Experience = () => {
           photographie (traitement chimique du négatif).
           Post-traitement(Photoshop,lightroom).
         </p>
-      </div>
-
-      <div className="exp_3">
-        <h4>Confectionneur michelin</h4>
-        <h5>2014 / 2017</h5>
-        <p>
-          Confectionne des bandages (pneu) conformes, en quantité et en qualité
-          tout en respectant les Modes Opératoires et les consignes de sécurité,
-          remédie aux incidents simples, effectue le contrôle de sa machine et
-          la vérification des bandages.
-        </p>
+        
       </div>
     </div>
   );
